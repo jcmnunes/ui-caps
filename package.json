@@ -30,7 +30,7 @@
       "pre-commit": "tsdx lint"
     }
   },
-  "name": "ui-caps",
+  "name": "@binarycapsule/ui-caps",
   "author": "Jose C. Nunes",
   "module": "dist/ui-caps.esm.js",
   "size-limit": [
@@ -74,5 +74,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jcmnunes/ui-caps.git"
-  }
+  },
+  "description": "Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.",
+  "bugs": {
+    "url": "https://github.com/jcmnunes/ui-caps/issues"
+  },
+  "homepage": "https://github.com/jcmnunes/ui-caps#readme",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "dependencies": {}
 }
